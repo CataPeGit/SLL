@@ -1,0 +1,6 @@
+﻿  ExtendedTest.cpp
+C:\Users\catal\source\repos\SDA\SDA\ExtendedTest.cpp(190,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\catal\source\repos\SDA\SDA\ExtendedTest.cpp(223,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\catal\source\repos\SDA\SDA\ExtendedTest.cpp(208,20): warning C4101: 'ex': unreferenced local variable
+C:\Users\catal\source\repos\SDA\SDA\ExtendedTest.cpp(215,20): warning C4101: 'ex': unreferenced local variable
+  SDA.vcxproj -> C:\Users\catal\source\repos\SDA\x64\Debug\SDA.exe
